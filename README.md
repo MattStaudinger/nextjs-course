@@ -1,5 +1,7 @@
 This is a nextjs-app created in the nextjs-crash-course of Traversy Media at https://www.youtube.com/watch?v=mTz0GXj8NN0
 
+The end result can be found [here](https://priceless-williams-8c5095.netlify.app/) - a statically generated site (without the use of `getServerSideProps`)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
